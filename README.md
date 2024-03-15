@@ -1,2 +1,2 @@
-# Ejercicio1
+# Ejercicios de Git
 Ejercicio prueba 
